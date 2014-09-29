@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.absfactory/org.tb.designpattern.absfactory.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.absfactory/org.tb.designpattern.absfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.adapter/org.tb.designpattern.adapter.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.adapter/org.tb.designpattern.adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.bridge/org.tb.designpattern.bridge.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.bridge/org.tb.designpattern.bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.builder/org.tb.designpattern.builder.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.builder/org.tb.designpattern.builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.commander/org.tb.designpattern.commander.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.commander/org.tb.designpattern.commander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.composite/org.tb.designpattern.composite.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.composite/org.tb.designpattern.composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.decorate/org.tb.designpattern.decorate.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.decorate/org.tb.designpattern.decorate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.expression/org.tb.designpattern.expression.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.expression/org.tb.designpattern.expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.facade/org.tb.designpattern.facade.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.facade/org.tb.designpattern.facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.factory/org.tb.designpattern.factory.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.factory/org.tb.designpattern.factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.flyweight/org.tb.designpattern.flyweight.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.flyweight/org.tb.designpattern.flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.iterator/org.tb.designpattern.iterator.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.iterator/org.tb.designpattern.iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.mediator/org.tb.designpattern.mediator.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.mediator/org.tb.designpattern.mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.memento/org.tb.designpattern.memento.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.memento/org.tb.designpattern.memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.observer/org.tb.designpattern.observer.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.observer/org.tb.designpattern.observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.prototype/org.tb.designpattern.prototype.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.prototype/org.tb.designpattern.prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.proxy/org.tb.designpattern.proxy.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.proxy/org.tb.designpattern.proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.responchain/org.tb.designpattern.responchain.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.responchain/org.tb.designpattern.responchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.singleton/org.tb.designpattern.singleton.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.singleton/org.tb.designpattern.singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.state/org.tb.designpattern.state.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.state/org.tb.designpattern.state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.strategy/org.tb.designpattern.strategy.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.strategy/org.tb.designpattern.strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.template/org.tb.designpattern.template.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.template/org.tb.designpattern.template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpattern.visitor/org.tb.designpattern.visitor.iml" filepath="$PROJECT_DIR$/org.tb.designpattern.visitor/org.tb.designpattern.visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.tb.designpatterns.iml" filepath="$PROJECT_DIR$/org.tb.designpatterns.iml" />
+    </modules>
+  </component>
+</project>
+

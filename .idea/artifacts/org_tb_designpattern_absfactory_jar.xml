@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="org.tb.designpattern.absfactory:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/org_tb_designpattern_absfactory_jar</output-path>
+    <root id="archive" name="org.tb.designpattern.absfactory.jar">
+      <element id="module-output" name="org.tb.designpattern.absfactory" />
+    </root>
+  </artifact>
+</component>
